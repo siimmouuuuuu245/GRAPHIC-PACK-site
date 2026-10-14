@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      // Safeguard for browser extensions attempting to assign to window.fetch
+      try {
+        let currentFetch = window.fetch ? window.fetch.bind(window) : undefined;
+        Object.defineProperty(window, 'fetch', {
+          configurable: true,
+          enumerable: true,
+          get() {
+            return currentFetch;
+          },
+          set(fn) {
+            currentFetch = fn;
+          },
+        });
+      } catch (_) {}
+    </script>
+    <title>GRAPHIC PACK - Clichés Photopolymères & Prépresse Flexographique</title>
+    <meta name="description" content="Site officiel de GRAPHIC PACK : Spécialiste de la fabrication de clichés photopolymères de haute précision et de la prépresse flexographique pour les professionnels de l'impression et de l'emballage." />
+    <meta property="og:title" content="GRAPHIC PACK - Clichés Photopolymères & Prépresse Flexographique" />
+    <meta property="og:description" content="Site officiel de GRAPHIC PACK : Spécialiste de la fabrication de clichés photopolymères de haute précision et de la prépresse flexographique pour les professionnels de l'impression et de l'emballage." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <script type="module" crossorigin src="./assets/index-tAoLz6xr.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-OPtFBFK5.css">
+  </head>
+  <body class="bg-white text-gray-900 antialiased selection:bg-red-500 selection:text-white">
+    <div id="root"></div>
+  </body>
+</html>
+

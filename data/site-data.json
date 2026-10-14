@@ -1,0 +1,267 @@
+{
+  "theme": {
+    "primaryColor": "#E30613",
+    "primaryHover": "#BE0510",
+    "darkTextColor": "#1F2937",
+    "logoMode": "original",
+    "logoUrl": ""
+  },
+  "content": {
+    "hero": {
+      "title": {
+        "fr": "La précision au cœur de l’impression flexographique.",
+        "ar": "الدقة في قلب الطباعة الفليكسوغرافية."
+      },
+      "description": {
+        "fr": "GRAPHIC PACK accompagne les professionnels de l’impression avec des solutions de fabrication de clichés photopolymères et de prépresse flexographique.",
+        "ar": "ترافق GRAPHIC PACK محترفي الطباعة والتغليف بحلول صناعية متقدمة في صناعة كليشيهات الفوتوبوليمير والتحضير للطباعة الفليكسوغرافية."
+      },
+      "ctaServices": {
+        "fr": "Découvrir nos services",
+        "ar": "اكتشف خدماتنا"
+      },
+      "ctaContact": {
+        "fr": "Nous contacter",
+        "ar": "اتصل بنا"
+      },
+      "image": "images/hero_flexo_plate.jpg"
+    },
+    "about": {
+      "title": {
+        "fr": "À propos de GRAPHIC PACK",
+        "ar": "عن GRAPHIC PACK"
+      },
+      "description1": {
+        "fr": "GRAPHIC PACK est un atelier spécialisé dans le prépresse flexographique et la production de clichés photopolymères de haute précision. Nous mettons nos compétences techniques et notre rigueur industrielle au service des imprimeurs et des transformateurs d’emballages.",
+        "ar": "تعد GRAPHIC PACK ورشة صناعية متخصصة في التحضير للطباعة الفليكسوغرافية وصناعة كليشيهات الفوتوبوليمير عالية الدقة. نضع مهاراتنا التقنية وانضباطنا الصناعي في خدمة المطابع ومصنعي مواد التغليف."
+      },
+      "description2": {
+        "fr": "De la vérification rigoureuse des fichiers graphiques jusqu’à la gravure finale des plaques polymères, notre processus assure une fidélité d’encrage optimale et une netteté irréprochable sur tous types de supports.",
+        "ar": "من الفحص الدقيق للملفات التصميمية وحتى المعالجة النهائية للألواح البوليميرية، تضمن عملياتنا نقلًا مثاليًا للحبر ودقة متناهية على مختلف أسطح ومواد الطباعة."
+      },
+      "tagline": {
+        "fr": "Le confort et la précision de votre emballage",
+        "ar": "راحة ودقة تغليفكم"
+      }
+    },
+    "savoirFaireIntro": {
+      "title": {
+        "fr": "Notre savoir-faire industriel",
+        "ar": "خبرتنا الصناعية وطريقة عملنا"
+      },
+      "description": {
+        "fr": "Un processus rigoureux d’ingénierie prépresse et de gravure polymère, conçu pour répondre aux exigences techniques de l’impression flexographique moderne.",
+        "ar": "منهجية دقيقة في هندسة ما قبل الطباعة وتصنيع الكليشيهات البوليميرية، مصممة للاستجابة للمتطلبات التقنية للطباعة الفليكسوغرافية الحديثة."
+      }
+    },
+    "footerNotice": {
+      "fr": "GRAPHIC PACK — Clichés photopolymères et prépresse flexographique. Tous droits réservés.",
+      "ar": "GRAPHIC PACK — كليشيهات الفوتوبوليمير والتحضير للطباعة الفليكسوغرافية. جميع الحقوق محفوظة."
+    }
+  },
+  "services": [
+    {
+      "id": "srv-1",
+      "order": 1,
+      "visible": true,
+      "category": {
+        "fr": "Fabrication & Gravure",
+        "ar": "التصنيع والنقش"
+      },
+      "title": {
+        "fr": "Fabrication de clichés photopolymères",
+        "ar": "صناعة كليشيهات الفوتوبوليمير"
+      },
+      "description": {
+        "fr": "Conception et insolation de plaques polymères numériques haute définition, offrant un relief stable, des micro-points précis et une durabilité accrue sous presse.",
+        "ar": "تصنيع ومعالجة ألواح البوليمير الرقمية عالية الدقة، مع توفير نقش بارز مستقر ونقاط طباعة متناهية الصغر وعمر افتراضي أطول أثناء تشغيل ماكينات الطباعة."
+      },
+      "image": "images/hero_flexo_plate.jpg"
+    },
+    {
+      "id": "srv-2",
+      "order": 2,
+      "visible": true,
+      "category": {
+        "fr": "Ingénierie Graphique",
+        "ar": "الهندسة الطباعية"
+      },
+      "title": {
+        "fr": "Prépresse flexographique",
+        "ar": "التحضير للطباعة الفليكسوغرافية"
+      },
+      "description": {
+        "fr": "Traitement des séparations de couleurs, gestion du recouvrement (trapping), calcul de déformation cylindrique et compensation d’engraissement de point.",
+        "ar": "معالجة فواصل الألوان والصبغات، وضبط التراكب (Trapping)، وحساب التمدد والانكماش على أسطوانات الطباعة، وتعديل منحنيات كسب النقاط (Dot Gain)."
+      },
+      "image": "images/flexo_prepress.jpg"
+    },
+    {
+      "id": "srv-3",
+      "order": 3,
+      "visible": true,
+      "category": {
+        "fr": "Contrôle & Validation",
+        "ar": "الفحص والاعتماد"
+      },
+      "title": {
+        "fr": "Préparation et contrôle des fichiers",
+        "ar": "تجهيز وفحص الملفات"
+      },
+      "description": {
+        "fr": "Vérification preflight approfondie de vos fichiers sources (PDF, AI), contrôle des zones de réserve, codes-barres et conformité aux spécifications machines.",
+        "ar": "فحص مسبق شامل للملفات والمخططات التصميمية، والتأكد من مطابقة خطوط القطع، وحجز الألوان، والباركود، والتوافق الكامل مع مواصفات خطوط الإنتاج."
+      },
+      "image": "images/flexo_prepress.jpg"
+    },
+    {
+      "id": "srv-4",
+      "order": 4,
+      "visible": true,
+      "category": {
+        "fr": "Applications Flexo",
+        "ar": "تطبيقات فليكسو"
+      },
+      "title": {
+        "fr": "Solutions pour emballages souples",
+        "ar": "حلول للتغليف المرن"
+      },
+      "description": {
+        "fr": "Plaques optimisées pour l’impression sur films plastiques (PE, PP, PET, complexe), garantissant un transfert d’encre homogène et des dégradés subtils.",
+        "ar": "كليشيهات مخصصة للطباعة على الرقائق والأفلام البلاستيكية (PE, PP, PET)، تضمن توزيعًا متجانسًا للأحبار وانتقالًا ناعمًا للتدرجات اللونية الحساسة."
+      },
+      "image": "images/flexo_packaging_boxes.jpg"
+    },
+    {
+      "id": "srv-5",
+      "order": 5,
+      "visible": true,
+      "category": {
+        "fr": "Applications Flexo",
+        "ar": "تطبيقات فليكسو"
+      },
+      "title": {
+        "fr": "Solutions pour carton et emballage",
+        "ar": "حلول للكرتون والتغليف"
+      },
+      "description": {
+        "fr": "Clichés adaptés au carton ondulé et compact, avec une résistance mécanique éprouvée pour des tirages volumineux et un repérage irréprochable.",
+        "ar": "كليشيهات مصممة لطباعة الكرتون المضلع والكرتون المضغوط، بمقاومة ميكانيكية عالية للتشغيل المكثف والكميات الكبيرة مع ثبات ضبط التطابق."
+      },
+      "image": "images/flexo_packaging_boxes.jpg"
+    },
+    {
+      "id": "srv-6",
+      "order": 6,
+      "visible": true,
+      "category": {
+        "fr": "Assurance Qualité",
+        "ar": "ضمان الجودة"
+      },
+      "title": {
+        "fr": "Contrôle qualité",
+        "ar": "مراقبة الجودة"
+      },
+      "description": {
+        "fr": "Examen micrométrique systématique de la profondeur de relief, de la tenue des hautes lumières et de la netteté des éléments fins avant toute expédition.",
+        "ar": "فحص ميكرومتري منظم لعمق النقش البارز، وثبات نقاط الإضاءة الخفيفة، ووضوح الخطوط والعناصر الدقيقة قبل التسليم للمطبعة."
+      },
+      "image": "images/quality_control.jpg"
+    }
+  ],
+  "workflowSteps": [
+    {
+      "id": "step-1",
+      "stepNumber": 1,
+      "title": {
+        "fr": "Réception & Analyse des fichiers",
+        "ar": "استقبال وفحص ملفات التصميم"
+      },
+      "description": {
+        "fr": "Réception des éléments graphiques clients, vérification de la résolution, des polices vectorisées et des repères techniques.",
+        "ar": "استلام الملفات والمخططات الفنية، والتحقق من دقة الصور، والخطوط المحولة لمنحنيات، وععلامات التطابق والتسجيل."
+      },
+      "technicalDetails": {
+        "fr": "Formats acceptés : PDF HD, AI, EPS. Analyse de la séparation des tons directs Pantone.",
+        "ar": "الصيغ المعتمدة: PDF عالي الدقة، AI، EPS. تدقيق ومطابقة ألوان بانتون (Pantone)."
+      }
+    },
+    {
+      "id": "step-2",
+      "stepNumber": 2,
+      "title": {
+        "fr": "Préparation Prépresse & Trapping",
+        "ar": "المعالجة الفنية وضبط التراكب"
+      },
+      "description": {
+        "fr": "Application des paramètres de compensation machine, recouvrement (trapping) et ajustement des courbes d’engraissement de point.",
+        "ar": "تطبيق معادلات التمدد المناسبة لقطر أسطوانة الطباعة، وضبط التراكب اللوني (Trapping) لمنع الفراغات البيضاء."
+      },
+      "technicalDetails": {
+        "fr": "Calcul de la déformation selon le développement du cylindre et l’épaisseur du cliché.",
+        "ar": "حساب نسبة التمدد الدقيقة بالاعتماد على محيط الأسطوانة وسماكة لوح البوليمير."
+      }
+    },
+    {
+      "id": "step-3",
+      "stepNumber": 3,
+      "title": {
+        "fr": "Gravure & Traitement Photopolymère",
+        "ar": "النقش والمعالجة الضوئية للكليشيه"
+      },
+      "description": {
+        "fr": "Insolation au laser numérique de la couche noire masquante, puis polymérisation UV pour constituer les reliefs et les épaules de maintien.",
+        "ar": "حرق الطبقة الحاجزة بالليزر الرقمي بدقة عالية، تليها المعالجة بالأشعة فوق البنفسجية لتثبيت النقاط البارزة وقواعدها."
+      },
+      "technicalDetails": {
+        "fr": "Plaques photopolymères de haute stabilité dimensionnelle.",
+        "ar": "ألواح فوتوبوليميرية مستقرة الأبعاد مقاومة للكيماويات وأحبار المذيبات والمياه."
+      }
+    },
+    {
+      "id": "step-4",
+      "stepNumber": 4,
+      "title": {
+        "fr": "Lavage, Séchage & Finition",
+        "ar": "الغسيل والتجفيف والمعالجة السطحية"
+      },
+      "description": {
+        "fr": "Élimination du monomère non insolé, séchage thermique contrôlé et post-exposition UV pour une dureté optimale sous pression.",
+        "ar": "إزالة البوليمير غير المعالج بواسطة الغسيل، ثم التجفيف الحراري المنضبط والتثبيت بالأشعة UV لتحقيق الصلابة المثالية."
+      },
+      "technicalDetails": {
+        "fr": "Contrôle thermique rigoureux pour préserver l’homogénéité de l’épaisseur de la plaque.",
+        "ar": "تحكم حراري مدروس للمحافظة على تساوي السماكة عبر كامل مساحة الكليشيه."
+      }
+    },
+    {
+      "id": "step-5",
+      "stepNumber": 5,
+      "title": {
+        "fr": "Contrôle Qualité & Conditionnement",
+        "ar": "فحص الجودة والتغليف للتسليم"
+      },
+      "description": {
+        "fr": "Contrôle microscopique des points de trame, mesure de relief au micromètre et emballage protecteur pour le transport sécurisé.",
+        "ar": "فحص مجهري للنقاط الدقيقة وقياس عمق البروز بجهاز الميكرومتر الرقمي، ثم التغليف المحكم لحماية الكليشيهات أثناء النقل."
+      },
+      "technicalDetails": {
+        "fr": "Rapport de contrôle qualité fourni avec identification de chaque plaque.",
+        "ar": "تأكيد سلامة الألواح وتوثيق بيانات التشغيل والتسليم بكل عناية."
+      }
+    }
+  ],
+  "contact": {
+    "phone": "+213 00 00 00 00",
+    "whatsapp": "+213 00 00 00 00",
+    "email": "contact@graphicpack.dz",
+    "address": {
+      "fr": "Zone Industrielle, Algérie",
+      "ar": "المنطقة الصناعية، الجزائر"
+    },
+    "workingHours": {
+      "fr": "Du Samedi au Jeudi : 08h00 – 17h00",
+      "ar": "من السبت إلى الخميس: 08:00 – 17:00"
+    }
+  }
+}
